@@ -1,15 +1,13 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "index": "Inicio",
+  "Sobre nosotros": {
+    "title": "Sobre nosotros",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contactanos ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:fabian.orellana@cftsanagustin.cl",
     "newWindow": true
   }
 }
