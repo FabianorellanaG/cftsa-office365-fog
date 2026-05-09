@@ -1,0 +1,29 @@
+.nextra-content {
+  max-width: 1000px !important;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  font-size: 3rem !important;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem !important;
+  margin-top: 3rem;
+}
+
+img {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin: 24px auto;
+}
+
+body {
+  background: #f8fafc;
+}
